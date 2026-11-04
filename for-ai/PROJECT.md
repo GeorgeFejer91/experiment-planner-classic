@@ -53,7 +53,7 @@ Task state and evidence belong here; do not create a second progress ledger.
 
 ## Session observation — 2026-11-04
 
-Extraction task complete. This repository is private at [experiment-planner-classic](https://github.com/GeorgeFejer91/experiment-planner-classic),
+Extraction task complete. This repository is public at [experiment-planner-classic](https://github.com/GeorgeFejer91/experiment-planner-classic),
 default branch `main`, under the canonical `Documents/GitHub/experiment-planner-classic` folder.
 The last verified product commit is `0ea99dbfdbdaab9734c83e20598208e4a92a5389`; local HEAD and the actual remote
 main ref matched, with a clean tree before this documentation-only handoff.
@@ -74,5 +74,9 @@ open. Next acceptance check: create and reopen the same real-media recipe in bot
 installed interfaces without setting loss, silent version changes or hidden
 ambient dependencies. Native executable/CLI runtime, real-media save/reopen,
 installer, full accessibility/geometry and Runner session qualification are NOT RUN.
-The repository-creation request authorized this initial private publication;
-future product changes and publication follow matching session authorization.
+The initial creation was private. The user's 2026-11-04 follow-up explicitly
+authorized public visibility and collaborator access for Antonin Fourcade.
+GitHub verified PUBLIC visibility and a pending write invitation for
+[`afourcade`](https://github.com/afourcade). He must accept the invitation;
+pending status is not active write access. No product code changed.
+Future product changes and publication follow matching session authorization.
